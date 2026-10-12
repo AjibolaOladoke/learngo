@@ -6,21 +6,17 @@ A practical reference entry for product and engineering: the learngo notes, exam
 
 ## Images
 
-[![learngo](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![learngo](images/preview.png)](https://github.com/Swift-Tech-Co/learngo)
 
 ## ❤️ Help other fellow developers
 
-
 ## Stay in touch
 
-
   _I usually tweet Go tips and tricks._
-
 
 * **Subscribe to my newsletter**
 
   _Get updates from me._
-
 
   _Followed by 5K+ developers, and contains dozens of illustrated articles about Go._
 
@@ -29,8 +25,8 @@ A practical reference entry for product and engineering: the learngo notes, exam
 ---
 
 ## License
-Whole materials are licensed under the <a rel="license" href="https://www.swifttechco.com">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/>
-<a rel="license" href="https://www.swifttechco.com"></a>
+Whole materials are licensed under the <a rel="license" href="https://github.com/Swift-Tech-Co/learngo">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/>
+<a rel="license" href="https://github.com/Swift-Tech-Co/learngo"></a>
 
 ---
 
@@ -46,13 +42,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/learngo
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [inancgumus/learngo](https://github.com/inancgumus/learngo) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
